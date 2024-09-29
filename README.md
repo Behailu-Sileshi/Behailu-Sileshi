@@ -19,4 +19,4 @@
 - HTML/CSS
 
 ### 📁 Projects
-- [Password Generator](https://github.com/Behailu-Sileshi/python-mini-projects)
+- [Python Mini Projects](https://github.com/Behailu-Sileshi/python-mini-projects)
