@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @Behailu-Sileshi
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
-<!-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Behailu  👋
 
-Behailu-Sileshi/Behailu-Sileshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me
+- I'm a web developer specializing in Django and Python.
+- I'm currently freelancing and building my portfolio.
+
+### 🌱 Currently Learning
+- Django
+- Web development best practices
+
+### 📫 How to reach me
+- Email: behailusileshi7@gmail.com
+<!--- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)!-->
+
+### 🔧 Technologies & Tools
+- Python
+- Django
+- JavaScript
+- HTML/CSS
+
+### 📁 Projects
+- [Password Generator](https://github.com/username/python_mini_project/tree/main/password_generator)
