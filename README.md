@@ -19,4 +19,4 @@
 - HTML/CSS
 
 ### 📁 Projects
-- [Python Mini Projects](https://github.com/Behailu-Sileshi/python_mini_project/)
+- [Python Mini Projects](https://github.com/Behailu-Sileshi/python_mini_project)
