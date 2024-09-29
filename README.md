@@ -19,4 +19,4 @@
 - HTML/CSS
 
 ### 📁 Projects
-- [Password Generator](https://github.com/username/python_mini_project/tree/main/password_generator)
+- [Password Generator](https://github.com/username/python_mini_project/password_generator)
