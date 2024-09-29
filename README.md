@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Behailu 👋
 
 ### 👨‍💻 About Me
 - I'm a web developer specializing in Django and Python.
@@ -19,4 +19,4 @@
 - HTML/CSS
 
 ### 📁 Projects
-- [Password Generator](https://github.com/Behailu-Sileshi/python_mini_project/tree/main/password_generator)
+- [Password Generator](https://github.com/Behailu-Sileshi/python-mini-projects)
